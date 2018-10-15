@@ -1,0 +1,19 @@
+{
+  "name": "rojiverdedev",
+  "version": "1.0.0",
+  "description": "sitio web RojiVerde",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "React"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanMoran1985/RojiVerde.git"
+  },
+  "author": "Juan Moran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuanMoran1985/RojiVerde/issues"
+  },
+  "homepage": "https://github.com/JuanMoran1985/RojiVerde#readme"
+}
