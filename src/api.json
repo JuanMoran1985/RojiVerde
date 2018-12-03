@@ -1,0 +1,27 @@
+{
+    "categories":{
+        "id":1,
+        "description":"",
+        "title":"",
+        "product":[
+            {
+                "title":"",
+                "description":"",
+                "type":"",
+                "cover":"",
+                "src":"",
+                "id":"",
+                "price":""
+            },
+            {
+                "title":"",
+                "description":"",
+                "type":"",
+                "cover":"",
+                "src":"",
+                "id":"",
+                "price":""
+            }
+        ]
+    }
+}
